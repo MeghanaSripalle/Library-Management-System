@@ -1,0 +1,30 @@
+.slogin:hover{
+  background-color: rgb(216, 197, 168);
+  color: white;
+}
+.slogin{
+  height: 27px;
+}
+.container {
+  display:flex;
+  height: 200px;
+  background-image:url(library.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* position: relative; */
+  border: 5px solid rgb(48, 7, 7);
+}
+body{
+    text-align: center;
+    background-color: rgb(219, 206, 181);
+}
+form {
+  margin:auto;
+}
+a {
+text-decoration: none;
+color: brown;
+}
+a:hover {
+color: rgb(96, 117, 129);
+}

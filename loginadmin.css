@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+    height: 500px;
+    background-image:url(library2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border: 5px solid rgb(48, 7, 7);
+  }
+  .container1{
+    display:flex;
+    height: 150px;
+    background-color: antiquewhite;
+    position: relative;
+    border: 5px solid rgb(48, 7, 7);    
+    margin-left: 400px;  
+    margin-right: 400px;
+    margin-top: 100px;
+  }
+  body{
+      background-color: antiquewhite;
+  }
+  .submitstudent:hover{
+      background-color: rgb(252, 252, 252);
+  }
+  form {
+    margin:auto;
+  }
+  a {
+    text-decoration: none;
+  }
